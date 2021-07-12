@@ -26,6 +26,13 @@ Bargain Basement Bad Boy
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
+**Falcon**
+
+1. Move the folder "Audio" into "Arturia-Microfreak"
+2. Load a patch
+
+
+
 # Support this project
 
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
